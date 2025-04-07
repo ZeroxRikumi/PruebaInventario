@@ -1,0 +1,7 @@
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.csproj.AssemblyReference.cache
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.AssemblyInfoInputs.cache
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.AssemblyInfo.cs
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.csproj.CoreCompileInputs.cache
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.MvcApplicationPartsAssemblyInfo.cs
+D:\ProyectoApp\ApiInventario\ProyectoInventario\ProyectoInventario\obj\Debug\net9.0\ProyectoInventario.MvcApplicationPartsAssemblyInfo.cache
